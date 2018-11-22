@@ -5,8 +5,11 @@ severity = "degraded-performance"
 affectedsystems = [
   "WEBSITES"
 ]
-resolved = false
+resolved = true
 +++
 servers are experiencing network problems
-**Update**: We've identified the issue. {{< track "2018-11-22T14:34:00.000Z" >}}
+{{< track "2018-11-22T14:34:00.000Z" >}}
+**Update**: We've identified the issue. 
+{{< track "2018-11-22T14:54:00.000Z" >}}
+**Update**: problem solved. 
 

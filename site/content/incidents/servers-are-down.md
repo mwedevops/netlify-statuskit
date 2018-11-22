@@ -1,5 +1,5 @@
 +++
-title = "servers are down"
+title = "API connectivity is down"
 date = 2018-11-21T17:45:27.000Z
 severity = "major-outage"
 affectedsystems = [
@@ -7,4 +7,4 @@ affectedsystems = [
 ]
 resolved = false
 +++
-API servers are havinf problems
+API servers are having problems connecting to the internet due to a mayor network issue. We're working on it.
