@@ -6,7 +6,7 @@
   command = "npm run build-preview"
 
 [template.environment]
-  STATUSKIT_PAGE_TITLE = "title for the page"
-  STATUSKIT_COMPANY_LOGO = "url to your company's logo"
-  STATUSKIT_SUPPORT_CONTACT_LINK = "url to your support page"
-  STATUSKIT_RESOURCES_LINK = "url to your knowledge base page"
+  STATUSKIT_PAGE_TITLE = "MWE Enterprise Cloud"
+  STATUSKIT_COMPANY_LOGO = "https://www.medicalwebexperts.com/images/cube.a058a0612b0b23a8.png"
+  STATUSKIT_SUPPORT_CONTACT_LINK = "https://www.medicalwebexperts.com/#contact-us"
+  STATUSKIT_RESOURCES_LINK = "https://www.medicalwebexperts.com/"
