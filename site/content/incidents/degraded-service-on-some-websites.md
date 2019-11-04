@@ -5,6 +5,6 @@ severity = "degraded-performance"
 affectedsystems = [
   "WEBSITES"
 ]
-resolved = false
+resolved = true
 +++
 Some websites are loading with not optimal response times.
